@@ -6,6 +6,7 @@ public class Meta : MonoBehaviour
 {
     public int Objetivo;
     private int counter;
+    public bool activo;
     public GameObject winpanel;
     // Start is called before the first frame update
     void Start()
@@ -19,6 +20,7 @@ public class Meta : MonoBehaviour
     {
         if(Objetivo == counter)
         {
+            activo = true;
             winpanel.SetActive(true);
         }
     }

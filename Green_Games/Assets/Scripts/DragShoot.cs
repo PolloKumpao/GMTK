@@ -5,11 +5,15 @@ using UnityEngine;
 public class DragShoot : MonoBehaviour
 {
 
-    Vector2 startPos, endPos, direction;
+    Vector3 startPos, endPos, direction;
     Rigidbody2D myRigidbody2D;
+    public float maxRange;
     public float shootPower = 10f;
     private Vector2 constSpeed;
+    bool isPressed;
+    bool canDrag = true;
     Camera camera;
+    Vector3 currentpoint,oposite;
     public LineRenderer line;
     private void Awake()
     {
@@ -21,13 +25,19 @@ public class DragShoot : MonoBehaviour
         myRigidbody2D = GetComponent<Rigidbody2D>();
         myRigidbody2D.bodyType = RigidbodyType2D.Dynamic;
         camera = Camera.main;
+        startPos = myRigidbody2D.position;
     }
 
     void OnMouseDown()
     {
         if (Input.GetMouseButtonDown(0))
         {
-            startPos = Input.mousePosition;
+            if(canDrag)
+            {
+                startPos = camera.ScreenToWorldPoint(Input.mousePosition);
+                isPressed = true;
+            }
+           
         }
     }
 
@@ -35,12 +45,17 @@ public class DragShoot : MonoBehaviour
     {
         if (Input.GetMouseButtonUp(0))
         {
-            endPos = Input.mousePosition;
-            direction = startPos - endPos;
-            myRigidbody2D.bodyType = RigidbodyType2D.Dynamic;
-            myRigidbody2D.velocity = direction * shootPower;
-            constSpeed = myRigidbody2D.velocity;
-            endline();
+            if (canDrag)
+            {
+                endPos = currentpoint;
+                direction = startPos - endPos;
+                myRigidbody2D.bodyType = RigidbodyType2D.Dynamic;
+                myRigidbody2D.velocity = direction * shootPower;
+                constSpeed = myRigidbody2D.velocity;
+                endline();
+                isPressed = false;
+                canDrag = false;
+            }
         }
     }
 
@@ -64,25 +79,43 @@ public class DragShoot : MonoBehaviour
         }
       
     }
-    void DrawLine(Vector3 startpoint, Vector3 endpoint)
+    void DrawLine()
     {
-        line.positionCount = 2;
+        //line.positionCount = 2;
         Vector3[] Allpoint = new Vector3[2];
-        Allpoint[0] = startpoint;
-        Allpoint[1] = endpoint;
+        Allpoint[0] = startPos;
+        Allpoint[1] = oposite;
         line.SetPositions(Allpoint);
     }
     public void endline()
     {
-        line.positionCount = 0;
+        line.enabled = false;
     }
     private void Update()
     {
-        if(Input.GetMouseButton(0))
+        if(isPressed)
         {
-            Vector3 currentpoint = camera.ScreenToViewportPoint(Input.mousePosition);
-            currentpoint.z = 15;
-            DrawLine(startPos, currentpoint);
+            currentpoint = camera.ScreenToWorldPoint(Input.mousePosition);
+            if (Vector2.Distance(startPos,currentpoint) > maxRange)
+            {
+                Vector3 direction = (currentpoint - startPos).normalized;
+                direction.z = 0;
+                currentpoint = startPos + direction * maxRange;
+                oposite = currentpoint + (2 * (startPos - currentpoint));
+                oposite.z = 0;
+                currentpoint.z = 0;
+                DrawLine();
+               // Debug.Log("Rango superado");
+            }
+            else
+            {
+                oposite = currentpoint + (2 * (startPos - currentpoint));
+                oposite.z = 0;
+                currentpoint.z = 0;
+                DrawLine();
+              //  Debug.Log("por debajo del rango");
+            }
+            
         }
         while(constSpeed.magnitude > myRigidbody2D.velocity.magnitude)
         {
