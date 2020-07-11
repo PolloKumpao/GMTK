@@ -62,7 +62,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\BlackHole.cs" />
     <Compile Include="Assets\Scripts\DragShoot.cs" />
+    <Compile Include="Assets\Scripts\Electron.cs" />
     <Compile Include="Assets\Scripts\EndLevelMenu.cs" />
     <Compile Include="Assets\Scripts\Meta.cs" />
     <Compile Include="Assets\Scripts\PartMov.cs" />

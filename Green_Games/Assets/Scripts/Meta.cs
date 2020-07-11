@@ -27,7 +27,7 @@ public class Meta : MonoBehaviour
         if (collision.gameObject.tag == "Particula")
         {
             //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
-            Debug.Log("Colision");
+            //Debug.Log("Colision");
             counter++;
             collision.gameObject.SetActive(false);
 

@@ -36,13 +36,13 @@ public class PartMov : MonoBehaviour
         if (collision.gameObject.tag == "Player")
         {
             //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
-            Debug.Log("Colision");
+            //Debug.Log("Colision");
             constSpeed = myRigidbody2D.velocity;
 
         }else if (collision.gameObject.tag == "Particula")
         {
             //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
-            Debug.Log("Colision");
+            //Debug.Log("Colision");
             constSpeed = myRigidbody2D.velocity;
 
         }
