@@ -795,21 +795,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Electron
       objectReference: {fileID: 0}
-    - target: {fileID: 1862359374322772174, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1862359374322772174, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0.5284859
-      objectReference: {fileID: 0}
-    - target: {fileID: 1862359374322772174, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0.9811321
-      objectReference: {fileID: 0}
     - target: {fileID: 1862359374322772175, guid: 993982df01a18ae42beb3965fcfacab7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -864,36 +849,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1862359374322772175, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_LocalScale.x
-      value: 0.22916262
-      objectReference: {fileID: 0}
-    - target: {fileID: 1862359374322772175, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_LocalScale.y
-      value: 0.23150703
-      objectReference: {fileID: 0}
-    - target: {fileID: 1862359374322772175, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_LocalScale.z
-      value: 1.20321
-      objectReference: {fileID: 0}
-    - target: {fileID: 4139777928012678017, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_Color.r
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4139777928012678017, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_Color.g
-      value: 0.5294118
-      objectReference: {fileID: 0}
-    - target: {fileID: 4139777928012678017, guid: 993982df01a18ae42beb3965fcfacab7,
-        type: 3}
-      propertyPath: m_Color.b
-      value: 0.9803922
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 993982df01a18ae42beb3965fcfacab7, type: 3}
@@ -2073,7 +2028,7 @@ PrefabInstance:
 
 
 
-        Open/Close
+        Open / Close
         the gate by clicking on it'
       objectReference: {fileID: 0}
     - target: {fileID: 2601499930694012226, guid: dd054a24c3d05e847a2346aa72b5248a,
