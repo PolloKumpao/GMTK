@@ -1,4 +1,4 @@
-﻿using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -60,8 +60,8 @@ public class Meta : MonoBehaviour
             {
                 //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
                 //Debug.Log("Colision");
-                Objetivo--;
-                collision.gameObject.SetActive(false);
+               // Objetivo--;
+               // collision.gameObject.SetActive(false);
 
 
             }
