@@ -28,9 +28,9 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 110723686378079170}
-  m_LocalRotation: {x: -0, y: -0, z: 0.70879096, w: 0.7054187}
+  m_LocalRotation: {x: 0, y: 0, z: 0.7087894, w: 0.70542014}
   m_LocalPosition: {x: 8.04, y: 1.66, z: -1}
-  m_LocalScale: {x: 1.5589132, y: 0.3594256, z: 1}
+  m_LocalScale: {x: 0.69977, y: 1.1999, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
@@ -74,7 +74,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -8275456822925274602, guid: 63156b01d0c932041be74c54578a8581,
+  m_Sprite: {fileID: 8075928548143400066, guid: 68af0139c34227840931b1f8269443d3,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
@@ -99,18 +99,18 @@ BoxCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.025063336, y: -0.023835659}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.46, y: 1.4004755}
+    oldSize: {x: 2.79, y: 0.27}
     newSize: {x: 1.46, y: 1.4004755}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.46, y: 1.4004755}
+  m_Size: {x: 2.7878876, y: 1.2051752}
   m_EdgeRadius: 0
 --- !u!61 &110723686378079183
 BoxCollider2D:
@@ -125,18 +125,18 @@ BoxCollider2D:
   m_IsTrigger: 1
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.01910162, y: -0.0063264966}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1.46, y: 1.4004755}
+    oldSize: {x: 2.79, y: 0.27}
     newSize: {x: 1.46, y: 1.4004755}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
   serializedVersion: 2
-  m_Size: {x: 1.46, y: 1.4004755}
+  m_Size: {x: 2.6994362, y: 0.26311833}
   m_EdgeRadius: 0
 --- !u!114 &110723686378079169
 MonoBehaviour:
@@ -150,7 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dc3e837f1ef20704a9ce9e7af4c0a18f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  colision: {fileID: 0}
+  opened: 0
 --- !u!95 &110723686378079180
 Animator:
   serializedVersion: 3
