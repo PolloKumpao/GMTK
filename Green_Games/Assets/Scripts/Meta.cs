@@ -32,33 +32,73 @@ public class Meta : MonoBehaviour
         }
     }
     private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.tag == "+")
+    { if (clasic)
         {
-            //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
-            //Debug.Log("Colision");
-            Objetivo--;
-            collision.gameObject.SetActive(false);
+            if (collision.gameObject.tag == "+")
+            {
+                //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
+                //Debug.Log("Colision");
+                if (Objetivo > 0)
+                {
+                    Objetivo--;
+                }
+
+                collision.gameObject.SetActive(false);
 
 
+            }
+            else if (collision.gameObject.tag == "-")
+            {
+                //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
+                //Debug.Log("Colision");
+                Objetivo++;
+                collision.gameObject.SetActive(false);
+
+
+            }
+            else if (collision.gameObject.tag == "Player")
+            {
+                //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
+                //Debug.Log("Colision");
+                Objetivo--;
+                collision.gameObject.SetActive(false);
+
+
+            }
         }
-        else if (collision.gameObject.tag == "-")
+        else
         {
-            //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
-            //Debug.Log("Colision");
-            Objetivo++;
-            collision.gameObject.SetActive(false);
+            if (collision.gameObject.tag == "+")
+            {
+                //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
+                //Debug.Log("Colision");
+                if (Objetivo > 0)
+                {
+                    Objetivo++;
+                }
+
+                collision.gameObject.SetActive(false);
 
 
-        }
-        else if (collision.gameObject.tag == "Player")
-        {
-            //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
-            //Debug.Log("Colision");
-            Objetivo--;
-            collision.gameObject.SetActive(false);
+            }
+            else if (collision.gameObject.tag == "-")
+            {
+                //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
+                //Debug.Log("Colision");
+                Objetivo--;
+                collision.gameObject.SetActive(false);
 
 
+            }
+            else if (collision.gameObject.tag == "Player")
+            {
+                //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
+                //Debug.Log("Colision");
+                Objetivo--;
+                collision.gameObject.SetActive(false);
+
+
+            }
         }
     }
 }

@@ -45,7 +45,24 @@ public class Scene : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(win)
+        //Debug.Log(metas.Length);
+        for (int i = 0; metas.Length > i; i++)
+        {
+            //Debug.Log("Metas recorriendo" + i);
+            if (metas[i].activo)
+            {
+                //Debug.Log("Metas true");
+                win = true;
+            }
+            else
+            {
+                //Debug.Log("Metas false");
+                win = false;
+                break;
+            }
+
+        }
+        if (win)
         {
             winpanel.SetActive(true);
             losepanel.SetActive(false);
@@ -68,20 +85,7 @@ public class Scene : MonoBehaviour
             
 
         }
-        for (int i = 0; metas.Length < i; i++)
-        {
-            if(metas[i].activo)
-            {
-                win = true;
-            }
-            else
-            {
-                Debug.Log("Metas false");
-                win = false;
-                break;
-            }
-            
-        }
+       
 
 
     }
