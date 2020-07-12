@@ -67,6 +67,7 @@
     <Compile Include="Assets\Scripts\DragShoot.cs" />
     <Compile Include="Assets\Scripts\Electron.cs" />
     <Compile Include="Assets\Scripts\EndLevelMenu.cs" />
+    <Compile Include="Assets\Scripts\MatchCamera.cs" />
     <Compile Include="Assets\Scripts\Meta.cs" />
     <Compile Include="Assets\Scripts\Meta2.cs" />
     <Compile Include="Assets\Scripts\PartMov.cs" />

@@ -29,10 +29,8 @@ ScriptsOnlyBuild:
     UnityEditor.Graphs.dll:
     - UnityEditor.Graphs.AnimationBlendTree.Graph
     - UnityEditor.Graphs.AnimationBlendTree.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateNode
     - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
@@ -113,9 +111,13 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
     - Class: 81
       Script: {instanceID: 0}
     - Class: 104
+      Script: {instanceID: 0}
+    - Class: 109
       Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 11172}
@@ -130,9 +132,17 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12202}
     - Class: 114
+      Script: {instanceID: 12254}
+    - Class: 114
       Script: {instanceID: 12874}
     - Class: 114
       Script: {instanceID: 13050}
+    - Class: 114
+      Script: {instanceID: 13252}
+    - Class: 114
+      Script: {instanceID: 13270}
+    - Class: 114
+      Script: {instanceID: 13948}
     - Class: 114
       Script: {instanceID: 14286}
     - Class: 115
@@ -164,8 +174,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 48
       Script: {instanceID: 0}
-    - Class: 49
-      Script: {instanceID: 0}
     - Class: 50
       Script: {instanceID: 0}
     - Class: 58
@@ -184,8 +192,6 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
-    - Class: 109
-      Script: {instanceID: 0}
     - Class: 114
       Script: {instanceID: 11172}
     - Class: 114
@@ -199,8 +205,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12202}
     - Class: 114
-      Script: {instanceID: 12254}
-    - Class: 114
       Script: {instanceID: 12738}
     - Class: 114
       Script: {instanceID: 12778}
@@ -209,15 +213,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13050}
     - Class: 114
-      Script: {instanceID: 13252}
-    - Class: 114
-      Script: {instanceID: 13270}
-    - Class: 114
       Script: {instanceID: 13394}
     - Class: 114
       Script: {instanceID: 13920}
-    - Class: 114
-      Script: {instanceID: 13948}
     - Class: 114
       Script: {instanceID: 14172}
     - Class: 114
@@ -967,11 +965,17 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 49d63573e71072421bc042b11fa9fd81
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MatchCamera
   platform: 5
   scenePathNames:
-  - Assets/Scenes/Nivel Tuto.unity
   - Assets/Scenes/MenuPrincipal 1.unity
   - Assets/Scenes/LevelSelector.unity
+  - Assets/Scenes/Nivel Tuto.unity
   - Assets/Scenes/lvl3.unity
   - Assets/Scenes/lvl1.unity
-  playerPath: E:/edufs/Documents/OneDrive/Escritorio/Enti_Bien/JAMS/build/Green_Games.exe
+  playerPath: E:/edufs/Documents/OneDrive/Escritorio/Enti_Bien/JAMS/Build/Green_Games.exe
