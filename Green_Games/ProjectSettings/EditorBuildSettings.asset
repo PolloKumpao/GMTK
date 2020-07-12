@@ -18,9 +18,36 @@ EditorBuildSettings:
     path: Assets/Scenes/Nivel Tuto.unity
     guid: b777ad4caca4a004484bee87d23e936c
   - enabled: 1
-    path: Assets/Scenes/lvl3.unity
-    guid: 1c0fefb3c209fc34e9bdedbc1ddcfa8b
+    path: Assets/Scenes/Nivel Tuto 1.unity
+    guid: 7b2f6aeb458beaa4a97e08246d6b0b09
   - enabled: 1
-    path: Assets/Scenes/lvl1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Scenes/Nivel Tuto 2.unity
+    guid: fd3b058e45d484343837de4744b64985
+  - enabled: 1
+    path: Assets/Scenes/Nivel01.unity
+    guid: 12cdc837218188043822f87a49c06f7a
+  - enabled: 0
+    path: Assets/Scenes/Nivel02.unity
+    guid: 4437d72bd4179bc44bac43a88a71023b
+  - enabled: 1
+    path: Assets/Scenes/Nivel03.unity
+    guid: 09414183aab13cc41b58d78441ed5a60
+  - enabled: 1
+    path: Assets/Scenes/Nivel04.unity
+    guid: 589a57abecab91c48b6fb2bc6d017605
+  - enabled: 1
+    path: Assets/Scenes/Nivel05.unity
+    guid: d254782d87bd0b94dacfc8c349a39994
+  - enabled: 1
+    path: Assets/Scenes/Nivel06.unity
+    guid: 09157b4410d4e4945bb860a7263159a6
+  - enabled: 1
+    path: Assets/Scenes/Nivel07.unity
+    guid: 371aa7795bb3b794e9d6ee5cd2c9c408
+  - enabled: 1
+    path: Assets/Scenes/Nivel08.unity
+    guid: 67d218fc3286f504592058bbb7198836
+  - enabled: 1
+    path: Assets/Scenes/Nivel09.unity
+    guid: 2662c8c947aa17a459085fb74509bcbe
   m_configObjects: {}
