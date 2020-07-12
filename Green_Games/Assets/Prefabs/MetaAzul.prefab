@@ -10,11 +10,11 @@ GameObject:
   m_Component:
   - component: {fileID: 4359809949414186529}
   - component: {fileID: 4359809949414186542}
+  - component: {fileID: 4359809949414186543}
   - component: {fileID: 4359809949414186528}
   - component: {fileID: 459126867}
-  - component: {fileID: 616395167226426462}
   m_Layer: 0
-  m_Name: Meta2
+  m_Name: MetaAzul
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -74,8 +74,9 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: 9be8860f4ded2514a91fe1ccc60abd4f, type: 3}
-  m_Color: {r: 1, g: 0.8515253, b: 0, a: 1}
+  m_Sprite: {fileID: 5110981947470991870, guid: e7eb17b8106241d4c83fdf52da7de48c,
+    type: 3}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -85,6 +86,23 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &4359809949414186543
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4359809949414186540}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b93de5ce54e99534e8384a171b7e683a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Objetivo: 4
+  activo: 0
+  clasic: 0
+  scene: {fileID: 0}
+  contador: {fileID: 7982050285690217284}
 --- !u!61 &4359809949414186528
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -102,7 +120,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 5.12, y: 5.12}
+    oldSize: {x: 3.7399998, y: 3.8713145}
     newSize: {x: 5.12, y: 5.12}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -130,22 +148,6 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &616395167226426462
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 4359809949414186540}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5a45ce75485bc254d8a5d932178802d1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  Objetivo: 4
-  activo: 0
-  scene: {fileID: 0}
-  contador: {fileID: 7982050285690217284}
 --- !u!1 &7772006412781632434
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,0 +1,1496 @@
+fileFormatVersion: 2
+guid: 68af0139c34227840931b1f8269443d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6855218837941648915
+    second: puerta_0
+  - first:
+      213: -6505528396960538005
+    second: puerta_1
+  - first:
+      213: -982712705793107067
+    second: puerta_2
+  - first:
+      213: -3813570373979458377
+    second: puerta_3
+  - first:
+      213: 9169966169828459220
+    second: puerta_4
+  - first:
+      213: -5968507432536171673
+    second: puerta_5
+  - first:
+      213: 6552401959779807038
+    second: puerta_6
+  - first:
+      213: 7993500658603361697
+    second: puerta_7
+  - first:
+      213: -61326804395209519
+    second: puerta_8
+  - first:
+      213: -1877652867011585649
+    second: puerta_9
+  - first:
+      213: 1113465767977513665
+    second: puerta_10
+  - first:
+      213: 8382268192897823073
+    second: puerta_11
+  - first:
+      213: 5510095508927732553
+    second: puerta_12
+  - first:
+      213: -4690194329767887493
+    second: puerta_13
+  - first:
+      213: -4243335568607775439
+    second: puerta_14
+  - first:
+      213: -3881583248966155949
+    second: puerta_15
+  - first:
+      213: -8850477899069277398
+    second: puerta_16
+  - first:
+      213: 7928385180242743847
+    second: puerta_17
+  - first:
+      213: 3310253028420751338
+    second: puerta_18
+  - first:
+      213: -7384772548942026785
+    second: puerta_19
+  - first:
+      213: 841660525102733333
+    second: puerta_20
+  - first:
+      213: 1524407707236999994
+    second: puerta_21
+  - first:
+      213: -1032175196165551075
+    second: puerta_22
+  - first:
+      213: -5609144153194666248
+    second: puerta_23
+  - first:
+      213: -6991464307818596986
+    second: puerta_24
+  - first:
+      213: 8089780375292082430
+    second: puerta_25
+  - first:
+      213: -7862837570927673804
+    second: puerta_26
+  - first:
+      213: 2644472337553730460
+    second: puerta_27
+  - first:
+      213: -384794754161549064
+    second: puerta_28
+  - first:
+      213: 6783809776059368161
+    second: puerta_29
+  - first:
+      213: 8370434059216339917
+    second: puerta_30
+  - first:
+      213: -6311378424104777328
+    second: puerta_31
+  - first:
+      213: -2611177334112148049
+    second: puerta_32
+  - first:
+      213: 3212474408383655898
+    second: puerta_33
+  - first:
+      213: 2615351189859009411
+    second: puerta_34
+  - first:
+      213: 2342846023282503648
+    second: puerta_35
+  - first:
+      213: 4721594606890942729
+    second: puerta_36
+  - first:
+      213: 7981056951158333458
+    second: puerta_37
+  - first:
+      213: 5840201896719467997
+    second: puerta_38
+  - first:
+      213: 6653109401350950148
+    second: puerta_39
+  - first:
+      213: 3870201854334732162
+    second: puerta_40
+  - first:
+      213: 6588936893679169960
+    second: puerta_41
+  - first:
+      213: 4860778218528871686
+    second: puerta_42
+  - first:
+      213: 2738293739228643092
+    second: puerta_43
+  - first:
+      213: 6823022604598153074
+    second: puerta_44
+  - first:
+      213: -7151042352182176883
+    second: puerta_45
+  - first:
+      213: -6784401613145549859
+    second: puerta_46
+  - first:
+      213: 5945899446518656427
+    second: puerta_47
+  - first:
+      213: 8826802437718988214
+    second: puerta_48
+  - first:
+      213: -3330621432198486956
+    second: puerta_49
+  - first:
+      213: -6780248629413124881
+    second: puerta_50
+  - first:
+      213: -7152808705585960190
+    second: puerta_51
+  - first:
+      213: 2185632354406683592
+    second: puerta_52
+  - first:
+      213: -6491221564263633618
+    second: puerta_53
+  - first:
+      213: 1323615420941511304
+    second: puerta_54
+  - first:
+      213: -2509131143532599353
+    second: puerta_55
+  - first:
+      213: -3345361246627336689
+    second: puerta_56
+  - first:
+      213: 8075928548143400066
+    second: puerta_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: puerta_0
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1255
+        width: 315
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de10ce299ce5dd0a0800000000000000
+      internalID: -6855218837941648915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1294
+        width: 141
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6263f60468b7b5a0800000000000000
+      internalID: -6505528396960538005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_2
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1315
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b50fe2004bc52f0800000000000000
+      internalID: -982712705793107067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_3
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1318
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4300533f9731bc0800000000000000
+      internalID: -3813570373979458377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_4
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1282
+        width: 30
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d289fa95a3424f70800000000000000
+      internalID: 9169966169828459220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1279
+        width: 84
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b1764dc1a9b2da0800000000000000
+      internalID: -5968507432536171673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_6
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1297
+        width: 39
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3faf36cddeceea50800000000000000
+      internalID: 6552401959779807038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_7
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1282
+        width: 48
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a587e36f7e9eee60800000000000000
+      internalID: 7993500658603361697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1288
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc40d8a89f162ff0800000000000000
+      internalID: -61326804395209519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_9
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 1282
+        width: 99
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f89d74a6aac31f5e0800000000000000
+      internalID: -1877652867011585649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1282
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c27bd17733d37f00800000000000000
+      internalID: 1113465767977513665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1255
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161fab1a28cc35470800000000000000
+      internalID: 8382268192897823073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1258
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94bdc10fbaac77c40800000000000000
+      internalID: 5510095508927732553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_13
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1249
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7d32a65b1519eeb0800000000000000
+      internalID: -4690194329767887493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1150
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1357a5258c4ac15c0800000000000000
+      internalID: -4243335568607775439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_15
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1126
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 351044fb998d12ac0800000000000000
+      internalID: -3881583248966155949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1126
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bb78d1e39cc2580800000000000000
+      internalID: -8850477899069277398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_17
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1075
+        width: 102
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72217d6a058470e60800000000000000
+      internalID: 7928385180242743847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1108
+        width: 93
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef0ea3479160fd20800000000000000
+      internalID: 3310253028420751338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 1059
+        width: 283
+        height: 113
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd721413e74048990800000000000000
+      internalID: -7384772548942026785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1093
+        width: 48
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518973cc9cd2eab00800000000000000
+      internalID: 841660525102733333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1099
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33aabaabb8c72510800000000000000
+      internalID: 1524407707236999994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_22
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 1096
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c4596b02afca1f0800000000000000
+      internalID: -1032175196165551075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_23
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 1099
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f66fd67c115822b0800000000000000
+      internalID: -5609144153194666248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1087
+        width: 96
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68576a0214459fe90800000000000000
+      internalID: -6991464307818596986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_25
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1057
+        width: 42
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8f53cc36ca44070800000000000000
+      internalID: 8089780375292082430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_26
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1060
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eb24a63e691e290800000000000000
+      internalID: -7862837570927673804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_27
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 952
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bac3a749d03b420800000000000000
+      internalID: 2644472337553730460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_28
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 955
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f064c6b53fe8aaf0800000000000000
+      internalID: -384794754161549064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 955
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e247d59c0fe42e50800000000000000
+      internalID: 6783809776059368161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 873
+        width: 316
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc3cb6bad61c92470800000000000000
+      internalID: 8370434059216339917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_31
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 883
+        width: 93
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0998b2c23ca7968a0800000000000000
+      internalID: -6311378424104777328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_32
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 910
+        width: 165
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a1ba9c0c33cbd0800000000000000
+      internalID: -2611177334112148049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_33
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 898
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfadb93470059c20800000000000000
+      internalID: 3212474408383655898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_34
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 883
+        width: 39
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383017aec089b4420800000000000000
+      internalID: 2615351189859009411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_35
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 889
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efa0359b06738020800000000000000
+      internalID: 2342846023282503648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_36
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 874
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90182256749768140800000000000000
+      internalID: 4721594606890942729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_37
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 724
+        width: 168
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21064f9f20962ce60800000000000000
+      internalID: 7981056951158333458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_38
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 754
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5c68eaea09c0150800000000000000
+      internalID: 5840201896719467997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_39
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 712
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40dc55730c7945c50800000000000000
+      internalID: 6653109401350950148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_40
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 671
+        width: 304
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2870ea0d418b5b530800000000000000
+      internalID: 3870201854334732162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_41
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 724
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a17633f13b907b50800000000000000
+      internalID: 6588936893679169960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_42
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 691
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6059e574904f47340800000000000000
+      internalID: 4860778218528871686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 670
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41f3661d5af500620800000000000000
+      internalID: 2738293739228643092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 580
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27f8881b8ee30be50800000000000000
+      internalID: 6823022604598153074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_45
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 556
+        width: 33
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8358685ed462cc90800000000000000
+      internalID: -7151042352182176883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_46
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 571
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd35fda9da6f8d1a0800000000000000
+      internalID: -6784401613145549859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_47
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 556
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badafeb3b04148250800000000000000
+      internalID: 5945899446518656427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_48
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 490
+        width: 281
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5dacafc0a1f7a70800000000000000
+      internalID: 8826802437718988214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 526
+        width: 135
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454a18c247147c1d0800000000000000
+      internalID: -3330621432198486956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_50
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe4600b7bc7b7e1a0800000000000000
+      internalID: -6780248629413124881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_51
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 496
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20b2a35216e1cbc90800000000000000
+      internalID: -7152808705585960190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_52
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 332
+        width: 279
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3d20edb0de45e10800000000000000
+      internalID: 2185632354406683592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_53
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 334
+        width: 279
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2de5b7116c8ae5a0800000000000000
+      internalID: -6491221564263633618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_54
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 331
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88aa278663d6e5210800000000000000
+      internalID: 1323615420941511304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 160
+        width: 276
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c7aed6d486cd2dd0800000000000000
+      internalID: -2509131143532599353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_56
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 202
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e6b61bba3e291d0800000000000000
+      internalID: -3345361246627336689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: puerta_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 28
+        width: 279
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2840687f936731070800000000000000
+      internalID: 8075928548143400066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

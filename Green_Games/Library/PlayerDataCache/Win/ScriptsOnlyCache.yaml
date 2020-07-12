@@ -81,7 +81,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12976}
     - Class: 114
-      Script: {instanceID: 14286}
+      Script: {instanceID: 14288}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -144,7 +144,7 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13948}
     - Class: 114
-      Script: {instanceID: 14286}
+      Script: {instanceID: 14288}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -207,8 +207,6 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 12738}
     - Class: 114
-      Script: {instanceID: 12778}
-    - Class: 114
       Script: {instanceID: 12976}
     - Class: 114
       Script: {instanceID: 13050}
@@ -217,9 +215,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13920}
     - Class: 114
-      Script: {instanceID: 14172}
+      Script: {instanceID: 14174}
     - Class: 114
-      Script: {instanceID: 14286}
+      Script: {instanceID: 14288}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -298,9 +296,9 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13920}
     - Class: 114
-      Script: {instanceID: 14172}
+      Script: {instanceID: 14174}
     - Class: 114
-      Script: {instanceID: 14286}
+      Script: {instanceID: 14288}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -381,11 +379,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 13920}
     - Class: 114
-      Script: {instanceID: 14172}
+      Script: {instanceID: 14174}
     - Class: 114
-      Script: {instanceID: 14286}
+      Script: {instanceID: 14288}
     - Class: 114
-      Script: {instanceID: 14310}
+      Script: {instanceID: 14312}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -877,6 +875,12 @@ ScriptsOnlyBuild:
     className: PlayModeRunnerCallback
   - hash:
       serializedVersion: 2
+      Hash: 49d63573e71072421bc042b11fa9fd81
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MatchCamera
+  - hash:
+      serializedVersion: 2
       Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.EventSystems
@@ -965,12 +969,6 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: 49d63573e71072421bc042b11fa9fd81
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: MatchCamera
   platform: 5
   scenePathNames:
   - Assets/Scenes/MenuPrincipal 1.unity
