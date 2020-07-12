@@ -30,7 +30,7 @@ public class Electron : MonoBehaviour
             magnetismo.z = 0;
             float magSqr = magnetismo.sqrMagnitude;
             if (magSqr > 0.0001f)
-                collision.gameObject.GetComponent<Rigidbody2D>().AddForce(k * magnetismo.normalized / magSqr, ForceMode2D.Impulse);
+                collision.gameObject.GetComponent<Rigidbody2D>().AddForce(k * magnetismo.normalized * -1 / magSqr, ForceMode2D.Impulse);
             //magnetismo *= k;
             //collision.gameObject.GetComponent<Rigidbody2D>().AddForce(magnetismo);
             //Debug.Log("MagnetismoPlayer");

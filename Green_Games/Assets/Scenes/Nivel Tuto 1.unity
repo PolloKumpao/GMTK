@@ -1522,6 +1522,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1783345379, guid: dd054a24c3d05e847a2346aa72b5248a, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 33.799
+      objectReference: {fileID: 0}
+    - target: {fileID: 1783345379, guid: dd054a24c3d05e847a2346aa72b5248a, type: 3}
+      propertyPath: m_SizeDelta.x
+      value: 1852.4025
+      objectReference: {fileID: 0}
+    - target: {fileID: 1783345379, guid: dd054a24c3d05e847a2346aa72b5248a, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: -317
+      objectReference: {fileID: 0}
+    - target: {fileID: 1783345380, guid: dd054a24c3d05e847a2346aa72b5248a, type: 3}
+      propertyPath: m_FontData.m_FontSize
+      value: 48
+      objectReference: {fileID: 0}
     - target: {fileID: 2601499930694012226, guid: dd054a24c3d05e847a2346aa72b5248a,
         type: 3}
       propertyPath: m_Name

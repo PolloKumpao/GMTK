@@ -54,9 +54,9 @@ public class Meta : MonoBehaviour
             {
                 //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
                 //Debug.Log("Colision");
-                Objetivo++;
-                collision.gameObject.SetActive(false);
-                FX.Play();
+                //Objetivo++;
+                //collision.gameObject.SetActive(false);
+                //FX.Play();
 
             }
             else if (collision.gameObject.tag == "Player")
@@ -75,13 +75,13 @@ public class Meta : MonoBehaviour
             {
                 //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
                 //Debug.Log("Colision");
-                if (Objetivo > 0)
-                {
-                    Objetivo++;
-                }
+                //if (Objetivo > 0)
+                //{
+                //    Objetivo++;
+                //}
 
-                collision.gameObject.SetActive(false);
-                FX.Play();
+                //collision.gameObject.SetActive(false);
+                //FX.Play();
 
             }
             else if (collision.gameObject.tag == "-")

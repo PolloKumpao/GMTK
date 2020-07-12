@@ -7,14 +7,16 @@ public class Puerta : MonoBehaviour
     public bool opened;
     SpriteRenderer imagen;
     Animation animacion;
-    
+    public AudioSource fx;
+    bool once = true;
     
     //public BoxCollider2D colision;
     // Start is called before the first frame update
     void Start()
     {
-       opened = false;
-       
+       opened = true;
+      
+        fx = GetComponent<AudioSource>();
        //colision =  this.GetComponents<BoxCollider2D>()[1];
        //imagendefault = imagen.sprite;
 
@@ -44,22 +46,25 @@ public class Puerta : MonoBehaviour
         RaycastHit2D hit = Physics2D.Raycast(Camera.main.ScreenToWorldPoint(Input.mousePosition), -Vector2.up);
 
         // If it hits something...
-        if(hit != null)
+        if(hit)
         if (hit.collider.tag == "Puerta")
         {
             //Debug.Log("Puerrtaa");
             if (Input.GetMouseButtonDown(0))
             {
-                if (opened)
+                if (!opened)
                 {
-                    hit.collider.GetComponent<Animator>().Play("Puerta2");
-                        hit.collider.GetComponent<Puerta>().opened = false;
-                }
+                        hit.collider.GetComponent<Animator>().Play("Puerta");
+                        hit.collider.GetComponent<Puerta>().opened = true;
+                        fx.Play();
+                    }
                 else
                 {
-                    hit.collider.GetComponent<Animator>().Play("Puerta");
-                        hit.collider.GetComponent<Puerta>().opened = true;
-                }
+                    
+                        hit.collider.GetComponent<Animator>().Play("Puerta2");
+                        hit.collider.GetComponent<Puerta>().opened = false;
+                        fx.Play();
+                    }
             }
         }
 
@@ -92,6 +97,12 @@ public class Puerta : MonoBehaviour
         //    imagen.enabled = true;
         //    colision.enabled = true;
         //}
+        if(once)
+        {
+            opened = false;
+            GetComponent<Animator>().Play("Puerta2");
+            once = false;
+        }
     }
  
     //private void OnMouseDown()
