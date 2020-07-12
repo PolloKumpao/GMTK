@@ -15,6 +15,7 @@ public class DragShoot : MonoBehaviour
     Camera camera;
     Vector3 currentpoint,oposite;
     public LineRenderer line;
+    public AudioSource thorwFX;
     private void Awake()
     {
         line = GetComponent<LineRenderer>();
@@ -26,6 +27,7 @@ public class DragShoot : MonoBehaviour
         myRigidbody2D.bodyType = RigidbodyType2D.Dynamic;
         camera = Camera.main;
         startPos = myRigidbody2D.position;
+        thorwFX = GetComponent<AudioSource>();
     }
 
     void OnMouseDown()
@@ -55,6 +57,7 @@ public class DragShoot : MonoBehaviour
                 endline();
                 isPressed = false;
                 canDrag = false;
+                thorwFX.Play();
             }
         }
     }

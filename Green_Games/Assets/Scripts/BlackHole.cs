@@ -7,10 +7,12 @@ public class BlackHole : MonoBehaviour
    
     public float k;
     public Scene manager;
+    public AudioSource fx;
     // Start is called before the first frame update
     void Start()
     {
         manager = GameObject.FindGameObjectWithTag("Manager").GetComponent<Scene>();
+        fx = GetComponent<AudioSource>();
         //manager.SetActive(false);
     }
 
@@ -26,6 +28,7 @@ public class BlackHole : MonoBehaviour
             //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
             //Debug.Log("Colision");
             collision.gameObject.SetActive(false);
+            fx.Play();
 
 
         }else if (collision.gameObject.tag == "Player")
@@ -34,6 +37,7 @@ public class BlackHole : MonoBehaviour
             //Debug.Log("Colision");
             collision.gameObject.SetActive(false);
             manager.lose = true;
+            fx.Play();
 
 
         }
@@ -42,6 +46,7 @@ public class BlackHole : MonoBehaviour
             //myRigidbody2D.velocity = collision.gameObject.GetComponent<Rigidbody2D>().velocity;
             //Debug.Log("Colision");
             collision.gameObject.SetActive(false);
+            fx.Play();
 
 
         }

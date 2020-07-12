@@ -7,10 +7,12 @@ public class Scene : MonoBehaviour
     public bool pause;
     public bool win;
     public bool lose;
+    private bool once = false;
 
     public GameObject winpanel;
     public GameObject losepanel;
     public GameObject pausepanel;
+    public AudioSource winFX;
     public Meta[] metas;
     // Start is called before the first frame update
     void Start()
@@ -23,9 +25,10 @@ public class Scene : MonoBehaviour
         pausepanel.SetActive(false);
         pause = false;
         Time.timeScale = 1;
+        winFX = GetComponent<AudioSource>();
         //Meta = FindObjectsOfTypeAll<Meta>();
-        
-       
+
+
     }
     public void Paused()
     {
@@ -53,6 +56,13 @@ public class Scene : MonoBehaviour
             {
                 //Debug.Log("Metas true");
                 win = true;
+                if (!once)
+                {
+                    winFX.Play();
+                    once = true;
+                }
+
+
             }
             else
             {

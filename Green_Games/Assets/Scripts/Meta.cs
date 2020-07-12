@@ -11,6 +11,7 @@ public class Meta : MonoBehaviour
     public bool clasic;
     public Scene scene;
     public Text contador;
+    public AudioSource FX;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,6 +19,7 @@ public class Meta : MonoBehaviour
         //winpanel.SetActive(false);
         scene = GameObject.FindGameObjectWithTag("Manager").GetComponent<Scene>();
         contador.text = Objetivo.ToString();
+        FX = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -44,6 +46,7 @@ public class Meta : MonoBehaviour
                 }
 
                 collision.gameObject.SetActive(false);
+                FX.Play();
 
 
             }
@@ -53,7 +56,7 @@ public class Meta : MonoBehaviour
                 //Debug.Log("Colision");
                 Objetivo++;
                 collision.gameObject.SetActive(false);
-
+                FX.Play();
 
             }
             else if (collision.gameObject.tag == "Player")
@@ -78,7 +81,7 @@ public class Meta : MonoBehaviour
                 }
 
                 collision.gameObject.SetActive(false);
-
+                FX.Play();
 
             }
             else if (collision.gameObject.tag == "-")
@@ -87,7 +90,7 @@ public class Meta : MonoBehaviour
                 //Debug.Log("Colision");
                 Objetivo--;
                 collision.gameObject.SetActive(false);
-
+                FX.Play();
 
             }
             else if (collision.gameObject.tag == "Player")
