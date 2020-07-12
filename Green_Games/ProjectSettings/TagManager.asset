@@ -7,6 +7,13 @@ TagManager:
   - Pared
   - Particula
   - Win
+  - +
+  - '-'
+  - Lose
+  - Pause
+  - Manager
+  - Puerta
+  - Puerta2
   layers:
   - Default
   - TransparentFX

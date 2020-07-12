@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: e33f6175d4ea47241b9686d9164da378
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1453734835183775227
+    second: GJ20_ObstacloPixel_0
+  - first:
+      213: -5054127068445360757
+    second: GJ20_ObstacloPixel_1
+  - first:
+      213: 9098274611600472766
+    second: GJ20_ObstacloPixel_2
+  - first:
+      213: -2538532771415440725
+    second: GJ20_ObstacloPixel_3
+  - first:
+      213: 1384535937930842644
+    second: GJ20_ObstacloPixel_4
+  - first:
+      213: -6719544552564440312
+    second: GJ20_ObstacloPixel_5
+  - first:
+      213: 5674273946180684440
+    second: GJ20_ObstacloPixel_6
+  - first:
+      213: 5625336726105051753
+    second: GJ20_ObstacloPixel_7
+  - first:
+      213: 4375458368318199881
+    second: GJ20_ObstacloPixel_8
+  - first:
+      213: -2765205376937837159
+    second: GJ20_ObstacloPixel_9
+  - first:
+      213: -7907301336506938388
+    second: GJ20_ObstacloPixel_10
+  - first:
+      213: 8464417488274876801
+    second: GJ20_ObstacloPixel_11
+  - first:
+      213: -4384763821101944995
+    second: GJ20_ObstacloPixel_12
+  - first:
+      213: 7793662045125259984
+    second: GJ20_ObstacloPixel_0
+  - first:
+      213: -7254189127189338912
+    second: GJ20_ObstacloPixel_1
+  - first:
+      213: -7861680898171442807
+    second: GJ20_ObstacloPixel_2
+  - first:
+      213: -5855416082792919205
+    second: GJ20_ObstacloPixel_3
+  - first:
+      213: -3130311576496510463
+    second: GJ20_ObstacloPixel_4
+  - first:
+      213: 4948603813888418036
+    second: GJ20_ObstacloPixel_5
+  - first:
+      213: -2050748897704921639
+    second: GJ20_ObstacloPixel_6
+  - first:
+      213: -6137006269603856817
+    second: GJ20_ObstacloPixel_7
+  - first:
+      213: 7024967072755852272
+    second: GJ20_ObstacloPixel_8
+  - first:
+      213: 686252268712093319
+    second: GJ20_ObstacloPixel_9
+  - first:
+      213: 7855009981042519230
+    second: GJ20_ObstacloPixel_10
+  - first:
+      213: 7932104703784559771
+    second: GJ20_ObstacloPixel_11
+  - first:
+      213: -941952793843665004
+    second: GJ20_ObstacloPixel_12
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_0
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 1231
+        width: 159
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2b2236656a82c60800000000000000
+      internalID: 7793662045125259984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_1
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1206
+        width: 206
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e4e0645c61f35b90800000000000000
+      internalID: -7254189127189338912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_2
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1183
+        width: 267
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989640740e2b5e290800000000000000
+      internalID: -7861680898171442807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_3
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1135
+        width: 327
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fc40598126dbea0800000000000000
+      internalID: -5855416082792919205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_4
+      rect:
+        serializedVersion: 2
+        x: 2199
+        y: 1267
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae1aec436ee84d0800000000000000
+      internalID: -3130311576496510463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_5
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 451
+        width: 350
+        height: 350
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f066fc23f8fca440800000000000000
+      internalID: 4948603813888418036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_6
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 449
+        width: 374
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d536cc2eb64a83e0800000000000000
+      internalID: -2050748897704921639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_7
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 451
+        width: 422
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ebae32059f4daa0800000000000000
+      internalID: -6137006269603856817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_8
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 429
+        width: 395
+        height: 417
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3ad623552bd7160800000000000000
+      internalID: 7024967072755852272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_9
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 727
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 786e3ee6dce068900800000000000000
+      internalID: 686252268712093319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_10
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 439
+        width: 123
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcef2bc5f9920d60800000000000000
+      internalID: 7855009981042519230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_11
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 547
+        width: 99
+        height: 158
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94a846b33f741e60800000000000000
+      internalID: 7932104703784559771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_ObstacloPixel_12
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 451
+        width: 136
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 497f2c7bce28de2f0800000000000000
+      internalID: -941952793843665004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

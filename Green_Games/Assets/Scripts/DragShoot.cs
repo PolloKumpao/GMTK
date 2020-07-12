@@ -8,7 +8,7 @@ public class DragShoot : MonoBehaviour
     Vector3 startPos, endPos, direction;
     Rigidbody2D myRigidbody2D;
     public float maxRange;
-    public float shootPower = 10f;
+    private float shootPower = 4f;
     private Vector2 constSpeed;
     bool isPressed;
     bool canDrag = true;
@@ -117,12 +117,20 @@ public class DragShoot : MonoBehaviour
             }
             
         }
-        while(constSpeed.magnitude > myRigidbody2D.velocity.magnitude)
+        if(constSpeed.magnitude > myRigidbody2D.velocity.magnitude)
         {
             Vector2 tmp;
             tmp.x = myRigidbody2D.velocity.x * 1.1f;
             tmp.y = myRigidbody2D.velocity.y * 1.1f;
             myRigidbody2D.velocity = tmp;
+        }else if (constSpeed.magnitude < myRigidbody2D.velocity.sqrMagnitude)
+        {
+            Vector2 tmp;
+            tmp.x = myRigidbody2D.velocity.x * 0.9f;
+            tmp.y = myRigidbody2D.velocity.y * 0.9f;
+            //if(tmp.sqrMagnitude < maxSpeed)
+            myRigidbody2D.velocity = tmp;
+            //Debug.Log(constSpeed.sqrMagnitude);
         }
     }
 }

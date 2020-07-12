@@ -21,7 +21,7 @@ public class Electron : MonoBehaviour
  
     private void OnTriggerStay2D(Collider2D collision)
     {
-        Debug.Log("Magnetismo");
+        //Debug.Log("Magnetismo");
         Vector3 magnetismo;
         if (collision.gameObject.tag == "Player")
         {
@@ -33,11 +33,11 @@ public class Electron : MonoBehaviour
                 collision.gameObject.GetComponent<Rigidbody2D>().AddForce(k * magnetismo.normalized / magSqr, ForceMode2D.Impulse);
             //magnetismo *= k;
             //collision.gameObject.GetComponent<Rigidbody2D>().AddForce(magnetismo);
-            Debug.Log("MagnetismoPlayer");
+            //Debug.Log("MagnetismoPlayer");
 
 
         }
-        else if (collision.gameObject.tag == "Particula")
+        else if (collision.gameObject.tag == "+")
         {
             magnetismo = collision.gameObject.GetComponent<Rigidbody2D>().position - this.GetComponent<Rigidbody2D>().position;
             magnetismo.z = 0;
@@ -46,7 +46,19 @@ public class Electron : MonoBehaviour
                 collision.gameObject.GetComponent<Rigidbody2D>().AddForce(k * magnetismo.normalized / magSqr, ForceMode2D.Impulse);
             //magnetismo *= k;
             //collision.gameObject.GetComponent<Rigidbody2D>().AddForce(magnetismo);
-            Debug.Log("Magnetismoparticula");
+            //Debug.Log("Magnetismoparticula");
+
+        }
+        else if (collision.gameObject.tag == "-")
+        {
+            magnetismo = collision.gameObject.GetComponent<Rigidbody2D>().position - this.GetComponent<Rigidbody2D>().position;
+            magnetismo.z = 0;
+            float magSqr = magnetismo.sqrMagnitude;
+            if (magSqr > 0.0001f)
+                collision.gameObject.GetComponent<Rigidbody2D>().AddForce(k * magnetismo.normalized*-1 / magSqr, ForceMode2D.Impulse);
+            //magnetismo *= k;
+            //collision.gameObject.GetComponent<Rigidbody2D>().AddForce(magnetismo);
+            //Debug.Log("Magnetismoparticula");
 
         }
 

@@ -17,8 +17,18 @@ public class EndLevelMenu : MonoBehaviour
     {
         
     }
-    public void leveltoLoad(int level)
+    public void replay()
     {
-        SceneManager.LoadScene(level);
+        
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+    public void nextlevel()
+    {
+        
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
+    public void menu()
+    {
+        SceneManager.LoadScene(0);
     }
 }

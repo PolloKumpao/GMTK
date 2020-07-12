@@ -1,0 +1,440 @@
+fileFormatVersion: 2
+guid: c62d829da4a913a41a7afed482d0863f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6053455856244087033
+    second: GJ20_PersReposoPixel_0
+  - first:
+      213: 8798038796789986723
+    second: GJ20_PersReposoPixel_1
+  - first:
+      213: -8641637599676868033
+    second: GJ20_PersReposoPixel_2
+  - first:
+      213: -5414826903505687471
+    second: GJ20_PersReposoPixel_3
+  - first:
+      213: 3255026068396577727
+    second: GJ20_PersReposoPixel_4
+  - first:
+      213: -641784537047204778
+    second: GJ20_PersReposoPixel_5
+  - first:
+      213: 2126984046687011369
+    second: GJ20_PersReposoPixel_6
+  - first:
+      213: 2952104677060501145
+    second: GJ20_PersReposoPixel_7
+  - first:
+      213: -7874453067665023316
+    second: GJ20_PersReposoPixel_8
+  - first:
+      213: -8764617388413844287
+    second: GJ20_PersReposoPixel_9
+  - first:
+      213: -1121682865586202073
+    second: GJ20_PersReposoPixel_10
+  - first:
+      213: 1726251473212519109
+    second: GJ20_PersReposoPixel_11
+  - first:
+      213: -3304316746416417307
+    second: GJ20_PersReposoPixel_12
+  - first:
+      213: 4880135040001965813
+    second: GJ20_PersReposoPixel_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_0
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 1152
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f8dfe65702320450800000000000000
+      internalID: 6053455856244087033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 847
+        width: 339
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5b5c2fba9e81a70800000000000000
+      internalID: 8798038796789986723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_2
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 859
+        width: 314
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ad991736cb21880800000000000000
+      internalID: -8641637599676868033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_3
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 859
+        width: 338
+        height: 278
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca058ce9baad4b0800000000000000
+      internalID: -5414826903505687471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_4
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 859
+        width: 326
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb31a6d96fc2c2d20800000000000000
+      internalID: 3255026068396577727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 463
+        width: 302
+        height: 327
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65c76f62d5ce717f0800000000000000
+      internalID: -641784537047204778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_6
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 475
+        width: 290
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 922c3b1a8b0948d10800000000000000
+      internalID: 2126984046687011369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_7
+      rect:
+        serializedVersion: 2
+        x: 1355
+        y: 739
+        width: 87
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ed5f7109bf7f820800000000000000
+      internalID: 2952104677060501145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_8
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 774
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae5755d7a258b290800000000000000
+      internalID: -7874453067665023316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_9
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 742
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c481631ce2dd5680800000000000000
+      internalID: -8764617388413844287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_10
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 463
+        width: 327
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a971e606bfe60f0800000000000000
+      internalID: -1121682865586202073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 642
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2b3dd9190e4f710800000000000000
+      internalID: 1726251473212519109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_12
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 463
+        width: 314
+        height: 348
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e599781d65b422d0800000000000000
+      internalID: -3304316746416417307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_PersReposoPixel_13
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 559
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fef04b76f8b9b340800000000000000
+      internalID: 4880135040001965813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

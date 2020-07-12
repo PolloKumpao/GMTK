@@ -1,7 +1,49 @@
 fileFormatVersion: 2
 guid: 63156b01d0c932041be74c54578a8581
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -8275456822925274602
+    second: GJ20_Obstaculo_Atraer_0
+  - first:
+      213: 6930513770601010925
+    second: GJ20_Obstaculo_Atraer_1
+  - first:
+      213: 184101082304486174
+    second: GJ20_Obstaculo_Atraer_2
+  - first:
+      213: 4149198987888187522
+    second: GJ20_Obstaculo_Atraer_3
+  - first:
+      213: 7664585201425316048
+    second: GJ20_Obstaculo_Atraer_4
+  - first:
+      213: -3285290322384563294
+    second: GJ20_Obstaculo_Atraer_5
+  - first:
+      213: 9164348759814750340
+    second: GJ20_Obstaculo_Atraer_6
+  - first:
+      213: -1651683825111363537
+    second: GJ20_Obstaculo_Atraer_7
+  - first:
+      213: -7142932947713725187
+    second: GJ20_Obstaculo_Atraer_8
+  - first:
+      213: -3250126976068381819
+    second: GJ20_Obstaculo_Atraer_9
+  - first:
+      213: -6697151200054651
+    second: GJ20_Obstaculo_Atraer_10
+  - first:
+      213: -4318792992170792558
+    second: GJ20_Obstaculo_Atraer_11
+  - first:
+      213: 7764198552505054231
+    second: GJ20_Obstaculo_Atraer_12
+  - first:
+      213: 6831875136545961160
+    second: GJ20_Obstaculo_Atraer_13
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -40,7 +82,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -71,9 +113,315 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_0
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1231
+        width: 146
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612d4736ddba72d80800000000000000
+      internalID: -8275456822925274602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_1
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1214
+        width: 196
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de650af0e812e2060800000000000000
+      internalID: 6930513770601010925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_2
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 1181
+        width: 263
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b168d75fe0e8200800000000000000
+      internalID: 184101082304486174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_3
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1141
+        width: 322
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2885c7ffe7ae49930800000000000000
+      internalID: 4149198987888187522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 457
+        width: 344
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8fba9c1a31e5a60800000000000000
+      internalID: 7664585201425316048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_5
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 452
+        width: 367
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a35d36abdd4862d0800000000000000
+      internalID: -3285290322384563294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_6
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 452
+        width: 449
+        height: 397
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480cc8a64ae4e2f70800000000000000
+      internalID: 9164348759814750340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_7
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 681
+        width: 136
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f209af2ef4a0419e0800000000000000
+      internalID: -1651683825111363537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_8
+      rect:
+        serializedVersion: 2
+        x: 1804
+        y: 436
+        width: 410
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce61534543fdc90800000000000000
+      internalID: -7142932947713725187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_9
+      rect:
+        serializedVersion: 2
+        x: 1991
+        y: 735
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58397843cba35e2d0800000000000000
+      internalID: -3250126976068381819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_10
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 582
+        width: 63
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b6b9f9f438eff0800000000000000
+      internalID: -6697151200054651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_11
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 552
+        width: 85
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299a633d7a09014c0800000000000000
+      internalID: -4318792992170792558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_12
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 449
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147aaf6279ffbb60800000000000000
+      internalID: 7764198552505054231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GJ20_Obstaculo_Atraer_13
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 458
+        width: 123
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c435a76d32bfce50800000000000000
+      internalID: 6831875136545961160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
